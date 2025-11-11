@@ -15,6 +15,8 @@ export default defineConfig(({ mode }) => ({
   },
   build: {
     outDir: "dist/spa",
+    assetsInlineLimit: 0,
+    copyPublicDir: true,
   },
   plugins: [react(), expressPlugin()],
   resolve: {
