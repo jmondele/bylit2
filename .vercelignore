@@ -1,0 +1,6 @@
+# Large media files
+public/*.mp4
+public/*.jpg
+!public/placeholder.svg
+!public/loogo.svg
+!public/favicon.ico
