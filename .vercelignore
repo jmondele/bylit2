@@ -1,6 +1,9 @@
-# Large media files
-public/*.mp4
-public/*.jpg
-!public/placeholder.svg
-!public/loogo.svg
-!public/favicon.ico
+# Large media files - exclude unused files only
+public/6S5A5116.jpg
+public/6S5A5195.jpg
+public/6S5A5246.jpg
+public/6S5A5299.jpg
+public/6S5A5615.jpg
+public/6S5A5814.jpg
+public/6S5A5990.jpg
+public/6S5A6092.jpg

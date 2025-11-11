@@ -154,7 +154,7 @@ export default function Index() {
             <div className="flex flex-col md:flex-row justify-center md:justify-start items-center gap-6 md:gap-12 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-100">
               <div className="w-full md:w-auto overflow-hidden rounded-sm group">
                 <video
-                  src="/DOS_90.MP4"
+                  src="/DOS-90.mp4"
                   autoPlay
                   loop
                   muted
