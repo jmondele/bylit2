@@ -32,3 +32,5 @@ public/*.jpg
 !public/placeholder.svg
 !public/loogo.svg
 !public/favicon.ico
+
+.vercel
